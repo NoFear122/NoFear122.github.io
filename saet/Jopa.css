@@ -1,0 +1,38 @@
+body{
+	}
+ul {
+	list-style: none;
+	text-align: center;
+}
+ul li:first-child{
+	margin-left: 0px
+}
+ul li{
+	display: inline-block;
+	margin-left: 100px;
+}
+p{
+	font-size: 50px;
+}
+p1 {
+	color: blue;
+	font-size: 35px;
+}
+.jopa{
+	border-radius: 2560px;
+	display: none;
+} 
+.dd{
+	display: table-cell;
+	margin: 0 auto;
+	width: 450px;
+	height: 50px;
+	background: linear-gradient(to top, #870020 0%, #e70e2c 100%);
+	text-align: center;
+	color: white;
+	vertical-align: middle;
+	font-family: arial;
+	font-size: 18px;
+	text-transform: uppercase;
+	text-decoration: none; 
+}
