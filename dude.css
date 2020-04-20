@@ -73,3 +73,21 @@ h1 {
   justify-content: space-between;
   color: #999999;
 }
+.jora {
+  width: 150px;
+  height: 40px;
+  display: table-cell;
+  margin: 0 auto;
+  background: linear-gradient(to top, #870020 0%, #e70e2c 100%);
+  text-align: center;
+  color: white;
+  vertical-align: middle;
+  font-family: arial;
+  font-size: 18px;
+  text-transform: uppercase;
+  text-decoration: none; 
+  
+}
+.jora:hover{
+  background: linear-gradient(to bottom, #870020 0%, #e70e2c 100%);
+}
