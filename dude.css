@@ -89,6 +89,7 @@ h1 {
 }
 a {
   text-decoration: none;
+  background: blue;
 }
 #jora:hover{
   background: linear-gradient(to bottom, #870020 0%, #e70e2c 100%);
