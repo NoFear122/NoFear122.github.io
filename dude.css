@@ -9,6 +9,7 @@ body {
 img {
   max-height: 500px;
   display: flex;
+  float: left;
 }
 h1 {
   width: 260px;
