@@ -78,6 +78,12 @@ footer a {
 	height: 220px;
 }
 .kart {
+	width: 50%;
 	float: left;
 	height: 100px;
+}
+#test {
+	color: #FF9D41;
+	padding: 0px;
+	margin: 0px;
 }
