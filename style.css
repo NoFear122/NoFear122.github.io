@@ -80,6 +80,7 @@ ul {
 	padding: 1.92%;
 	font-size: 15px;
 	text-align: center;
+	border-color: transparent;
 }
 .second {
 	display: inline-block;
@@ -97,4 +98,21 @@ ul {
 }
 .second:hover{
 	border-color: white;
+}
+.first:hover{
+	border-color: white;
+}
+#now {
+	border-color: white;
+}
+
+.info {
+	border: 4px solid;
+	border-radius: 3px;
+	border-color: white;
+	padding: 10px;
+	color: #39E193;
+	font-family: Arial;
+	font-weight: bold;
+	
 }
