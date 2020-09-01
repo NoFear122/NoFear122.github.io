@@ -323,8 +323,9 @@ src: local('Arial MT Medium'), url('../font/ARIALMTMEDIUM.woff') format('woff');
 }
 .topkrug {
 	display: inline-block;
-	padding: 100px 100px;
-	background: black;
+	width: 200px;
+	height: 200px;
+	background: white;
 	border: 7px solid;
 	border-radius: 400px;
 	border-color: white;
