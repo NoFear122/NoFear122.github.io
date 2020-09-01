@@ -384,7 +384,7 @@ src: local('Arial MT Medium'), url('../font/ARIALMTMEDIUM.woff') format('woff');
 }
 .contact {
 	padding: 109px 230px 114px 230px;
-	background: #222;
+	background: url('../img/map.png') #222;
 	text-align: center;
 }
 .contact p:nth-child(1){
